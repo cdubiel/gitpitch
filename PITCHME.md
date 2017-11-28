@@ -23,7 +23,7 @@ Group 13
 
 # Claire Dubiel
 
-+++?image=/claire.jpg&size=custom-size-config
++++?image=/jesse.jpg&size=custom-size-config
 
 # Jesse Tipton
 
