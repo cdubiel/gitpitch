@@ -59,7 +59,7 @@ Group-14 AlltheGreatShows.com
 ---
 
 ## AlltheGreatShows API
-https://docs.allthegreatshows.apiary.io/
+[apiary](https://docs.allthegreatshows.apiary.io/)
 ---
 
 ## Demonstation
