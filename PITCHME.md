@@ -5,8 +5,10 @@ Group 13
 
 ---
 
-## Slide 1
-[content]
+## Who we are
+
+Sanat Sharma
+![Logo](https://utexas.box.com/s/rg7h5drt8osqbb7t3klh703t0ad9mz40)
 
 ---
 
