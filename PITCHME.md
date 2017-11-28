@@ -1,4 +1,4 @@
-## Intro to React
+## IDB Presentation
 Group 13
 
 [link](https:allthegreatshows.com)
@@ -8,7 +8,7 @@ Group 13
 ## Who we are
 
 Sanat Sharma
-![Logo](sanat.jpg)
+![Logo](/sanat.jpg)
 
 ---
 
