@@ -8,7 +8,7 @@ Group 13
 ## Who we are
 
 Sanat Sharma
-![Logo](/sanat.jpg&size=auto 75%)
+![sanat](/sanat.jpg&size=auto 75%)
 <!-- Jesse Tipton
 ![Logo](/jesse.jpg)
 Will Kuglen
