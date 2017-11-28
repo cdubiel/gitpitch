@@ -1,5 +1,6 @@
 ## IDB Presentation
-Group-13
+Group-13 
+Friday, December 1st
 
 [AlltheGreatShows.com](http://allthegreatshows.com)
 
@@ -41,7 +42,11 @@ Group-13
 
 ---
 
-## Setting up our database with SQLAlchemy
+## Setting up our database
+Tools Used
+- PostgreSQL database
+- psycopg2
+- SQLAlchemy
 
 
 ---
