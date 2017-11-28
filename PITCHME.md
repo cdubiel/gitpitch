@@ -1,11 +1,11 @@
-## Group-13 IDB Presentation
-## AlltheGreatShows.com
+## IDB Presentation
+Group-14 AlltheGreatShows.com
 
 [link](https:allthegreatshows.com)
 
 ---
 
-## Team Members
+## Who We Are
 
 +++?image=/sanat.jpg&size=custom-size-config
 
@@ -30,9 +30,17 @@
 +++
 ## Project Statistics
 Project Statistics
-- 
+- __ total commits
+- __ issues
+- __ tests
+
 ---
 
+## Databases We Scraped From
+- iTunes Store
+- Digital Ocean
+
+--- 
 ## Technologies We Used
 
 Backend Tools
@@ -40,6 +48,18 @@ Backend Tools
 
 Frontend Tools
     - ReactJS
+    - Reactstrap
+
+
+---
+
+## Setting up our database with SQLAlchemy
+
+
+---
+
+### AlltheGreatShows API
+
 
 ---
 
