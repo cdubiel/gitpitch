@@ -9,7 +9,7 @@ Group 13
 
 +++?image=/sanat.jpg&size=custom-size-config
 
-#Sanat Sharma
+# Sanat Sharma
 
 +++?image=/ashay.jpg&size=custom-size-config
 
