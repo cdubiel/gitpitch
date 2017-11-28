@@ -8,7 +8,7 @@ Group 13
 ## Who we are
 
 Sanat Sharma
-![Logo](/sanat.jpg)
+![Logo](sanat.jpg)
 
 ---
 
