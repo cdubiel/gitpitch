@@ -27,23 +27,23 @@ Group 13
 
 # Jesse Tipton
 
++++
+## Project Statistics
+
 ---
 
 ## Technologies We Used
 
 Backend Tools
-    * Python Flask
+    - Python Flask
 
 Frontend Tools
-    * ReactJS
+    - ReactJS
 
 ---
 
-## Slide 2
-
----
-
-## Slide 3
+## Demonstation
+[link](https:allthegreatshows.com)
 
 ---
 
@@ -80,8 +80,8 @@ Frontend Tools
 ---
 
 ## Group XX API Visualization
-![logo](/empty_visualization.jpg)
 +++
+![logo](/empty_visualization.jpg)
 
-# stuff
 ---
+## The End
