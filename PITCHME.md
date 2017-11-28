@@ -29,7 +29,6 @@ Group-14 AlltheGreatShows.com
 
 +++
 ## Project Statistics
-Project Statistics
 - 322 total commits
 - 60 issues
 - 25 tests
@@ -54,12 +53,13 @@ Project Statistics
 
 +++
 <!-- spacing is off -->
+## UML Diagram
 ![logo](/images/uml.jpg)
 
 ---
 
 ## AlltheGreatShows API
-
+[apiary] (https://docs.allthegreatshows.apiary.io/)
 ---
 
 ## Demonstation
