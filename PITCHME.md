@@ -30,26 +30,15 @@ Group-14 AlltheGreatShows.com
 +++
 ## Project Statistics
 Project Statistics
-- __ total commits
-- __ issues
-- __ tests
+- 322 total commits
+- 60 issues
+- 25 tests
 
 ---
 
 ## Databases We Scraped From
 - iTunes Store API
 - MixCloud API
-
---- 
-## Technologies We Used
-<!-- can we left adjust this? -->
-Backend Tools
-- Python Flask
-
-Frontend Tools
-- ReactJS
-- Reactstrap
-
 
 ---
 
@@ -82,6 +71,19 @@ Frontend Tools
 
 +++
 ## What did we learn?
++++
+## Technologies We Used
+<!-- can we left adjust this? -->
+Backend Tools
+- Python Flask
+
+Frontend Tools
+- ReactJS
+- Reactstrap
+- Reactrouter
+
+Hosting
+- GCP App Engine
 
 +++
 ## What did we do well?
