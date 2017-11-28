@@ -80,7 +80,7 @@ Frontend Tools
 ---
 
 ## Group XX API Visualization
-![logo] (Screen Shot 2017-11-27 at 10.39.46 PM.png)
+![logo] (empty_visualization.jpg)
 +++
 
 # stuff
