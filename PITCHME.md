@@ -42,7 +42,7 @@ Project Statistics
 
 --- 
 ## Technologies We Used
-
+<!-- can we left adjust this? -->
 Backend Tools
 - Python Flask
 
@@ -64,6 +64,7 @@ Frontend Tools
 - Genre
 
 +++
+<!-- spacing is off -->
 ![logo](/uml.jpg)
 
 ---
