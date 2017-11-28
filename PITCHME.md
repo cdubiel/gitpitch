@@ -7,23 +7,23 @@ Group-14 AlltheGreatShows.com
 
 ## Who We Are
 
-+++?image=/sanat.jpg&size=custom-size-config
++++?image=/images/sanat.jpg&size=custom-size-config
 
 # Sanat Sharma
 
-+++?image=/ashay.jpg&size=custom-size-config
++++?image=/images/ashay.jpg&size=custom-size-config
 
 # Ashay Lokhande
 
-+++?image=/will.jpg&size=custom-size-config
++++?image=/images/will.jpg&size=custom-size-config
 
 # Will Kuglen
 
-+++?image=/claire.jpg&size=custom-size-config
++++?image=/images/claire.jpg&size=custom-size-config
 
 # Claire Dubiel
 
-+++?image=/jesse.jpg&size=custom-size-config
++++?image=/images/jesse.jpg&size=custom-size-config
 
 # Jesse Tipton
 
@@ -65,7 +65,7 @@ Frontend Tools
 
 +++
 <!-- spacing is off -->
-![logo](/uml.jpg)
+![logo](/images/uml.jpg)
 
 ---
 
@@ -112,7 +112,7 @@ Frontend Tools
 
 ## Group XX API Visualization
 +++
-![logo](/empty_visualization.jpg)
+![logo](/images/empty_visualization.jpg)
 +++
 ## Visualiation Insights
 ---
