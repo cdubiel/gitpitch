@@ -57,9 +57,19 @@ Frontend Tools
 
 
 ---
+## Our Models
+- Podcast
+- Episode
+- Host
+- Genre
 
-### AlltheGreatShows API
++++
 
+![logo](/uml.jpg)
+
+---
+
+## AlltheGreatShows API
 
 ---
 
@@ -103,6 +113,7 @@ Frontend Tools
 ## Group XX API Visualization
 +++
 ![logo](/empty_visualization.jpg)
-
++++
+## Visualiation Insights
 ---
 ## The End
