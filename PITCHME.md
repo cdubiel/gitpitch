@@ -3,27 +3,38 @@ Group 13
 
 [link](https:allthegreatshows.com)
 
----?image=/sanat.jpg&size=custom-size-config
+---
 
 ## Who we are
 
-Sanat Sharma
-<!-- ![image](/sanat.jpg&size=auto 75%) -->
-<!-- <img src="https://github.com/cdubiel/gitpitch/blob/master/sanat.jpg" width="50"> -->
++++?image=/sanat.jpg&size=custom-size-config
 
-<!-- <img src="https://utexas.box.com/s/rg7h5drt8osqbb7t3klh703t0ad9mz40" width="50"> -->
-<!-- Jesse Tipton
-![Logo](/jesse.jpg)
-Will Kuglen
-![Logo](/will.jpg) -->
+#Sanat Sharma
+
++++?image=/ashay.jpg&size=custom-size-config
+
+# Ashay Lokhande
+
++++?image=/will.jpg&size=custom-size-config
+
+# Will Kuglen
+
++++?image=/claire.jpg&size=custom-size-config
+
+# Claire Dubiel
+
++++?image=/jesse.jpg&size=custom-size-config
+
+# Jesse Tipton
+
+---
+
+## Technologies We Used
+
 ---
 
 ## Slide 2
 
-Ashay Lokhande
-![Logo](/ashay.jpg)
-<!-- Claire Dubiel
-![Logo](/claire.jpg) -->
 ---
 
 ## Slide 3
