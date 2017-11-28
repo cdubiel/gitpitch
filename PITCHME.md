@@ -1,11 +1,11 @@
-## IDB Presentation
-Group 13
+# Group-13 IDB Presentation
+# AlltheGreatShows.com
 
 [link](https:allthegreatshows.com)
 
 ---
 
-## Who we are
+## Team Members
 
 +++?image=/sanat.jpg&size=custom-size-config
 
@@ -29,7 +29,8 @@ Group 13
 
 +++
 ## Project Statistics
-
+Project Statistics
+- 
 ---
 
 ## Technologies We Used
