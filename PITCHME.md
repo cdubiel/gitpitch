@@ -37,8 +37,8 @@ Project Statistics
 ---
 
 ## Databases We Scraped From
-- iTunes Store
-- Digital Ocean
+- iTunes Store API
+- MixCloud API
 
 --- 
 ## Technologies We Used
