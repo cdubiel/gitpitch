@@ -44,11 +44,11 @@ Project Statistics
 ## Technologies We Used
 
 Backend Tools
-    - Python Flask
+- Python Flask
 
 Frontend Tools
-    - ReactJS
-    - Reactstrap
+- ReactJS
+- Reactstrap
 
 
 ---
@@ -64,7 +64,7 @@ Frontend Tools
 ---
 
 ## Demonstation
-[link](https:allthegreatshows.com)
+[Allthegreatshows.com](https:allthegreatshows.com)
 
 ---
 
