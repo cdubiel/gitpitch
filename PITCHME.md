@@ -9,11 +9,18 @@ Group 13
 
 Sanat Sharma
 ![Logo](/sanat.jpg)
-
+Jesse Tipton
+![Logo](/jesse.jpg)
+Will Kuglen
+![Logo](/will.jpg)
 ---
 
 ## Slide 2
 
+Ashay Lokhande
+![Logo](/ashay.jpg)
+Claire Dubiel
+![Logo](/claire.jpg)
 ---
 
 ## Slide 3
