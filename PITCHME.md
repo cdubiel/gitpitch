@@ -8,19 +8,19 @@ Group 13
 ## Who we are
 
 Sanat Sharma
-![Logo](/sanat.jpg)
-Jesse Tipton
+![Logo](/sanat.jpg&size=auto 75%)
+<!-- Jesse Tipton
 ![Logo](/jesse.jpg)
 Will Kuglen
-![Logo](/will.jpg)
+![Logo](/will.jpg) -->
 ---
 
 ## Slide 2
 
 Ashay Lokhande
 ![Logo](/ashay.jpg)
-Claire Dubiel
-![Logo](/claire.jpg)
+<!-- Claire Dubiel
+![Logo](/claire.jpg) -->
 ---
 
 ## Slide 3
