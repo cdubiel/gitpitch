@@ -31,6 +31,12 @@ Group 13
 
 ## Technologies We Used
 
+Backend Tools
+    * Python Flask
+
+Frontend Tools
+    * ReactJS
+
 ---
 
 ## Slide 2
@@ -41,14 +47,41 @@ Group 13
 
 ---
 
-## Slide 4
+## Self Critique
+
++++
+## What did we learn?
+
++++
+## What did we do well?
+
++++
+## What can we do better?
+
++++
+## What puzzles us?
 
 ---
 
-## Slide 5
+## Group XX Critque
+
++++
+## What did they do well?
+
++++
+## What can we learn from their website?
+
++++
+## What can they do better?
+
++++
+## What puzzles us about their website?
 
 ---
 
-## Slide 6
+## Group XX API Visualization
+![logo] (Screen Shot 2017-11-27 at 10.39.46 PM.png)
++++
 
+# stuff
 ---
