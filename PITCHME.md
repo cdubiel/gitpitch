@@ -59,11 +59,11 @@ Group-14 AlltheGreatShows.com
 ---
 
 ## AlltheGreatShows API
-[apiary](https://docs.allthegreatshows.apiary.io/)
+[apiary](http://docs.allthegreatshows.apiary.io/)
 ---
 
 ## Demonstation
-[Allthegreatshows.com](https:allthegreatshows.com)
+[Allthegreatshows.com](http://allthegreatshows.com)
 
 ---
 
