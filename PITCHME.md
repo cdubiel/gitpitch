@@ -101,20 +101,27 @@ Hosting
 
 ---
 
-## Group XX Critque
+## Group 15 Critque
+[Marvelus](marvelus.me/events)
 
 +++
 ## What did they do well?
-
+- Rich Media
+- Intuitive Navigating
+- Hyperlinks
 +++
 ## What can we learn from their website?
+- How actors, characters, and events are connected to movies, TV shows, and comic series.
+
 
 +++
 ## What can they do better?
-
+- More responsive website layout
+- Meaningful attributes (e.g. Adult category)
+- Filtering
 +++
 ## What puzzles us about their website?
-
+- Search
 ---
 
 ## Group XX API Visualization
