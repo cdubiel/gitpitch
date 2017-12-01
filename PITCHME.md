@@ -59,21 +59,26 @@ Friday, December 1st
 - Faster, more responsive website
 - More rich media and embedded content
 - Better time estimates
+- Human-centered design
+
 +++
 
 ## What puzzles us?
-- Making reactstrap flexible
-- GCP credits
+- GCP
+- React state changes
+- Larger Flask app architecture
 ---
 
 ## Group 15 Critque
-[Marvelus.me](marvelus.me/events)
+[Marvelus.me](marvelus.me/)
 
 +++
 ## What did they do well?
-- Rich Media
-- Intuitive Navigating
-- Hyperlinks
+- Rich media
+- Intuitive navigating
+- Well integrated models
+- Comic book inspired style
+- Well organized GitHub repository
 +++
 ## What can we learn from their website?
 - How actors, characters, and events are connected to movies, TV shows, and comic series.
@@ -83,10 +88,12 @@ Friday, December 1st
 ## What can they do better?
 - More responsive website layout
 - Meaningful attributes (e.g. Adult category)
-- Filtering
+- Loading time
+- Image stretching 
 +++
 ## What puzzles us about their website?
 - Search Results
+- Agreement between models (e.g. Characters)
 ---
 
 ## Group 15 API Visualization
