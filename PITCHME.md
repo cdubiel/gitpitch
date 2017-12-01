@@ -49,7 +49,7 @@ Friday, December 1st
 +++
 ## What did we learn?
 - How podcasts are distributed
-- Modern website architectures
+- Modern website architecture
 <!-- - Python Flask
 - ReactJS -->
 - Working simultaneously
