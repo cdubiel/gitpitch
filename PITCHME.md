@@ -36,6 +36,11 @@ Friday, December 1st
 
 ---
 
+## Demonstation
+[Allthegreatshows.com](http://allthegreatshows.com)
+
+---
+
 ## Databases We Scraped From
 - iTunes Store API
 - MixCloud API
@@ -63,11 +68,6 @@ Tools Used
 
 ## AlltheGreatShows API
 [apiary](http://docs.allthegreatshows.apiary.io/)
----
-
-## Demonstation
-[Allthegreatshows.com](http://allthegreatshows.com)
-
 ---
 
 ## Self Critique
