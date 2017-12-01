@@ -31,7 +31,7 @@ Friday, December 1st
 ---
 
 ## Demo
-[Allthegreatshows.com](http://allthegreatshows.com)
+[allthegreatshows.com](http://allthegreatshows.com)
 
 
 ---
