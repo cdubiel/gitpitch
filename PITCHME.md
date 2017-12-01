@@ -49,9 +49,9 @@ Friday, December 1st
 +++
 ## What did we learn?
 - How podcasts are distributed
-- API documentation
-- Python Flask
-- ReactJS
+- Modern website architectures
+<!-- - Python Flask
+- ReactJS -->
 - Working simultaneously
 - Not to be afraid of merge conflicts
 
