@@ -28,15 +28,9 @@ Friday, December 1st
 
 # Jesse Tipton
 
-+++
-## Project Statistics
-- 322 total commits
-- 60 issues
-- 52 tests
-
 ---
 
-## Demonstation
+## Demo
 [Allthegreatshows.com](http://allthegreatshows.com)
 
 ---
@@ -52,12 +46,6 @@ Tools Used
 - PostgreSQL database
 - SQLAlchemy
 
----
-## Our Models
-- Podcast
-- Episode
-- Host
-- Genre
 
 +++
 <!-- spacing is off -->
