@@ -43,53 +43,26 @@ Friday, December 1st
 ## What did we do well?
 - Distributing tasks
 - Crunch time development
+- 
 
 
 +++
 ## What did we learn?
 - How podcasts are distributed
-- Scraping Data
-- SQLAlchemy Database
-- RESTful API
+- API documentation
 - Python Flask
 - ReactJS
-- unittesting
-+++
-
-## More Things We Learned
-- Time Management
 - Working simultaneously
-    - Github
-    - Trello
-    - PlanItPoker
-- Merge Conflicts
-- GCP TLC
----
-
-### Technologies We Used
-<!-- can we left adjust this? -->
-- Backend Tools
-    - Python Flask
-
-- Frontend Tools
-    - ReactJS
-    - Reactstrap
-    - Reactrouter
-
-- Hosting
-    - GCP App Engine
-
-- Testing
-    - Postman
-    - Selenium
-    - Python unittest
+- Not to be afraid of merge conflicts
 
 +++
 
 ## What can we do better?
 - More responsive website
 - More rich media and embedded content
+
 +++
+
 ## What puzzles us?
 - Making reactstrap flexible
 - GCP credits
