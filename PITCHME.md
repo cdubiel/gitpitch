@@ -32,7 +32,7 @@ Friday, December 1st
 ## Project Statistics
 - 322 total commits
 - 60 issues
-- 25 tests
+- 52 tests
 
 ---
 
@@ -92,7 +92,7 @@ Tools Used
 - GCP TLC
 ---
 
-## Technologies We Used
+### Technologies We Used
 <!-- can we left adjust this? -->
 - Backend Tools
     - Python Flask
@@ -150,6 +150,6 @@ Tools Used
 
 ## Group 15 API Visualization
 <!-- ![logo](/images/empty_visualization.jpg) -->
-[link](marvelus.me)
+[link](https://utexas.box.com/shared/static/3pjy7in8uv9ukvxtp82g1eao800rxx1s.pdf)
 ---
-## The End
+## Questions?
