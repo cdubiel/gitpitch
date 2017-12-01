@@ -43,7 +43,7 @@ Friday, December 1st
 ## What did we do well?
 - Distributing tasks
 - Crunch time development
-- 
+- Stable backend
 
 
 +++
