@@ -87,13 +87,13 @@ Friday, December 1st
 +++
 ## What can they do better?
 - More responsive website layout
-- Meaningful attributes (e.g. Adult category)
+- Meaningful attributes
 - Loading time
 - Image stretching 
 +++
 ## What puzzles us about their website?
 - Search Results
-- Agreement between models (e.g. Characters)
+- Agreement between models
 ---
 
 ## Group 15 API Visualization
