@@ -50,14 +50,13 @@ Friday, December 1st
 ## What did we learn?
 - How podcasts are distributed
 - Modern website architecture
-<!-- - Python Flask
-- ReactJS -->
 - Working simultaneously
 - Not to be afraid of merge conflicts
 
 +++
 
 ## What can we do better?
+- Faster website
 - More responsive website
 - More rich media and embedded content
 
