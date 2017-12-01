@@ -33,24 +33,7 @@ Friday, December 1st
 ## Demo
 [Allthegreatshows.com](http://allthegreatshows.com)
 
-<!-- 
----
 
-## Setting up our database
-Tools Used
-- PostgreSQL database
-- SQLAlchemy
-
-
-+++
-<!-- spacing is off -->
-<!-- ## UML Diagram -->
-<!-- ![logo](/images/uml.jpg) --> -->
-
-<!-- --- -->
-
-<!-- ## AlltheGreatShows API -->
-<!-- [apiary](http://docs.allthegreatshows.apiary.io/) -->
 ---
 
 ## Self Critique
