@@ -33,12 +33,7 @@ Friday, December 1st
 ## Demo
 [Allthegreatshows.com](http://allthegreatshows.com)
 
----
-
-## Databases We Scraped From
-- iTunes Store API
-- MixCloud API
-
+<!-- 
 ---
 
 ## Setting up our database
@@ -49,24 +44,32 @@ Tools Used
 
 +++
 <!-- spacing is off -->
-## UML Diagram
-![logo](/images/uml.jpg)
+<!-- ## UML Diagram -->
+<!-- ![logo](/images/uml.jpg) --> -->
 
----
+<!-- --- -->
 
-## AlltheGreatShows API
-[apiary](http://docs.allthegreatshows.apiary.io/)
+<!-- ## AlltheGreatShows API -->
+<!-- [apiary](http://docs.allthegreatshows.apiary.io/) -->
 ---
 
 ## Self Critique
 
 +++
+
+## What did we do well?
+- Distributing tasks
+- Crunch time development
+
+
++++
 ## What did we learn?
+- How podcasts are distributed
 - Scraping Data
 - SQLAlchemy Database
 - RESTful API
 - Python Flask
-- React JS
+- ReactJS
 - unittesting
 +++
 
@@ -99,11 +102,7 @@ Tools Used
     - Python unittest
 
 +++
-## What did we do well?
-- Navigation
-- Search
-- Sorting
-+++
+
 ## What can we do better?
 - More responsive website
 - More rich media and embedded content
