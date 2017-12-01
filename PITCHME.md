@@ -56,10 +56,9 @@ Friday, December 1st
 +++
 
 ## What can we do better?
-- Faster website
-- More responsive website
+- Faster, more responsive website
 - More rich media and embedded content
-
+- Better time estimates
 +++
 
 ## What puzzles us?
